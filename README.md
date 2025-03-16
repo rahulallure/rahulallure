@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AllureRahul&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AllureRahul&show_icons=true&theme=tokyonight)
 
 ---
 
