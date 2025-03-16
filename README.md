@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AllureRahul&show_icons=true&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=AllureRahul&color=blue&style=flat-square)
 
 ---
 
